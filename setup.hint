@@ -3,5 +3,5 @@ ldesc: "A Perl mail-to-HTML converter. Program provides HTML mail archiving
 with index, mail thread linking, etc; plus other capabilities
 including support for MIME and powerful user customization features."
 category: Archive Perl
-requires: cygwin perl
+requires: perl
 
