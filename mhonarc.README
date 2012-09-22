@@ -1,0 +1,67 @@
+mhonarc
+------------------------------------------
+
+Mail to HTML converter
+
+A Perl mail-to-HTML converter. Program provides HTML mail archiving
+with index, mail thread linking, etc; plus other capabilities
+including support for MIME and powerful user customization features.
+
+Runtime requirements:
+  perl
+
+Build requirements:
+  perl
+
+Canonical homepage:
+  http://freecode.com/projects/mhonarc
+  http://www.mhonarc.org
+  http://packages.debian.org/mhonarc
+
+Canonical download:
+  See above
+
+Version control repository:
+
+Mailing list:
+
+Forum / Wiki:
+
+IRC channel:
+
+Upstream contact:
+  Maintainer: Earl Hood <mhonarc@mhonarc.org>
+  Bugs: Earl Hood <mhonarc@mhonarc.org>
+
+License:
+  GPL
+
+Language:
+  Perl
+
+------------------------------------------
+
+Build instructions:
+  unpack mhonarc-*-src.tar.bz2
+    if you use setup to install this src package, it will be
+    unpacked under /usr/src automatically
+  cd /usr/src
+  ./mhonarc*.sh all
+
+------------------------------------------
+
+Files included in the binary distribution:
+  See Cygwin package archive
+
+------------------------------------------
+
+Port Notes:
+
+----- version 2.6.18-1 -----
+- New upstream release 2012-09-22 Jari Aalto
+
+----- version 2.6.16-1 -----
+- Private release 2008-02-28 Jari Aalto
+
+Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
+Copyright (C) 2008-2012 Jari Aalto; Licensed under GPL v2 or later

@@ -1,0 +1,6 @@
+# When ./confgure is being run, options listed here are appended
+# after default Cygwin option set.
+
+#  Do not install in .buid/build, but in the SRC root directory: ../..
+PREFIX=../../.inst/usr
+
